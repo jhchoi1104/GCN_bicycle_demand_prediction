@@ -11,7 +11,7 @@
 
 3) Data preprocessing
 - make_adj_sorted.py : 인접행렬 만드는 코드
-- past_rental_matrix.ipynb : 특성행렬 만드는 코드
+- past_rental_matrix.ipynb : 특성행렬 만드는 코드(일부)
 - make_bike_road.ipynb : 인근 500m 자전거도로 데이터 만드는 코드
 - Spatial data preprocessing.ipynb : 인근 500m 공간feature 만드는 코드
 
