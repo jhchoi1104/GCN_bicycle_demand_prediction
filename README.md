@@ -1,8 +1,8 @@
-# 파이널 제출 과제물 소개
-
-# 폴더
+## 파이널 제출 과제물 소개
+###################################
+### 폴더
 1) GCN
-- GCN : GCN-pro, GCN-UP code
+- GCN : GCN-pro, GCN-UP 코드 및 결과 시각화
 
 2) Compare model
 - LSTM
@@ -25,6 +25,5 @@
 
 4) Result
 1) 한국 인공지능 학회 제출용.pdf
-2) Full_paper.pdf : 최종 논문 (추가수정 후 PLOS ONE 제출 예정)
-3) Final_presentation.pptx
-4) GCN_Analysis.ipynb : GCN-pro 결과분석 코드
+2) Full_thesis(stage_editor).pdf : 최종 논문, Journal of Intelligent Transportation Systems 저널 제출 단계
+3) GCN_Analysis.ipynb : GCN-pro 결과분석 코드
