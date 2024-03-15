@@ -12,7 +12,7 @@
 3) Data preprocessing
 - make_adj_sorted.py : 인접행렬 만드는 코드
 - past_rental_matrix.ipynb : 특성행렬 만드는 코드(일부)
-- Spatial data preprocessing.ipynb : 인근 500m 공간feature 만드는 코드(일부)
+- Spatial_data_preprocessing.ipynb : 인근 500m 공간feature 만드는 코드(일부)
 
 4) Data
 - Spatial data.csv : 최종 공간 데이터
