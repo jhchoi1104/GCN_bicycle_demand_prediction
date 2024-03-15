@@ -1,4 +1,4 @@
-## Predicting bicycle demand  at the station level by incorporating station-specific spatial features in graph convolutional network model
+## 연구 주제: Predicting bicycle demand  at the station level by incorporating station-specific spatial features in graph convolutional network model
 ### 폴더
 1) GCN
 - GCN : GCN-pro, GCN-UP 코드 및 결과 시각화
