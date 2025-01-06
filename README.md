@@ -22,6 +22,8 @@
 - weekday_weather_df.pkl : 2022년도 날씨 feature (GCN)
 
 4) Result
-- 한국 인공지능 학회 제출용.pdf
-- Full_thesis(stage_editor).pdf : 최종 논문, Journal of Intelligent Transportation Systems 저널 제출 단계
 - GCN_Analysis.ipynb : GCN-pro 결과분석 코드
+
+5) Research
+- 한국인공지능학회(포스터발표ver).pdf
+- 디지털미디어학회(KCI논문등재ver).hwp: 에디터 검증 단계
